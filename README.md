@@ -1,6 +1,8 @@
-# desafio-classes-de-um-jogo
+# 🕹️ desafio-classes-de-um-jogo
 
-# 🕹️ DIO - Desafio Escrevendo as classes de um Jogo
+# DIO - Formação Lógica de Programação
+
+## Desafio Escrevendo as classes de um Jogo
 
 **O Que deve ser utilizado**
 
