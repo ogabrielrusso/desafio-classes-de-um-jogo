@@ -1,6 +1,6 @@
 # desafio-classes-de-um-jogo
 
-# 🕹️ Escrevendo as classes de um Jogo
+# 🕹️ DIO - Desafio Escrevendo as classes de um Jogo
 
 **O Que deve ser utilizado**
 
